@@ -1,0 +1,28 @@
+#EoS type (PP, TASPP, Tabulated)
+TASPP
+
+#(PP) EoS name, (Tabulated) Path to table, (TASPP) number of PTs
+1
+
+#(Only TASPP from here on)
+#d
+0.1015057378287465
+
+#xm
+4.1347446000e+14
+
+#rhoPT (left, right)
+3.7350000000e+14    7.0906000000e+14
+
+#polynomial parameters
+0   -1.2754124948214363 5.4772973671656988  -7.3684224001241638
+
+#rho_cut and extra_cut (if there's none, specify -1)
+1.3909083494e+14    1.423560e15
+
+#K polytropes
+1.3153774397e-26    1.5157361709e-30    7.5664502113e-09
+
+#Gamma polytropes
+2.6637490087800035  2.9257717120940350  1.4938531778106030
+
