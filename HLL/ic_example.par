@@ -1,0 +1,26 @@
+#Initial conditions (double rho_L, v_L, rho_R, v_R)
+8e13
+0
+4.3e14
+0
+
+#Spatial domain (a,b)
+0
+1
+
+#Spatial discretization (Number of intervals + 1 )
+1001;
+
+#CFL condition (<1)
+0.4
+
+#Final time of integration
+0.1;
+
+#Name of the file to save the solution into
+RP.txt
+
+#Technicalities: see README file. (allowUpwind, method)
+0
+1
+  

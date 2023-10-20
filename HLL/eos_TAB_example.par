@@ -1,0 +1,27 @@
+#EoS type (PP, TASPP, Tabulated)
+TABULATED
+
+#(PP) EoS name, (Tabulated) Path to table, (TASPP) number of PTs
+/yourpath/alf1.txt
+
+#(Only TASPP from here on)
+#d
+
+
+#xm
+
+
+#rhoPT (left, right)
+
+
+#polynomial parameters
+
+
+#rho_cut and extra_cut (if there's none, specify -1)
+
+
+#K polytropes
+
+
+#Gamma polytropes
+
